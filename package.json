@@ -17,11 +17,11 @@
     "lint": "prettier --write .; prettier --check .;eslint ."
   },
   "dependencies": {
-    "@pythnetwork/client": "^2.5.1",
+    "@pythnetwork/client": "^2.7.1",
     "@solana/buffer-layout": "^3.0.0",
-    "@solana/spl-token": "^0.1.8",
-    "@solana/web3.js": "^1.31.0",
-    "axios": "^0.24.0",
+    "@solana/spl-token": "^0.3.2",
+    "@solana/web3.js": "^1.95.1",
+    "axios": "^1.6.8",
     "bignumber.js": "^9.1.2",
     "bn.js": "^5.2.0",
     "buffer": "^6.0.3",
